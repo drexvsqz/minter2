@@ -1,0 +1,8 @@
+Step 1. Start
+Step 2. Input User's Name, Hourly rate salary, Hourly rate deduction
+Step 3. Display Name, Hourly rate salary, Hourly rate deduction
+Step 4. Compute Gross Rate = Hourly Rate Salary * Hours Worked
+Step 5. Compute Deduction = Gross Pay * Deduction Rate
+Step 6. Compute Net Pay = Gross Pay - Deduction
+Step 7. Display User's Name, Gross Rate, Deduction, and Net Pay
+Step 8. Done
